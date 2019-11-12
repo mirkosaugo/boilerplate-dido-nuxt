@@ -1,0 +1,16 @@
+{
+  "name": "blueprint",
+  "version": "1.0.0",
+  "description": "Common styles, scripts, assets and components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "include-media": "^1.4.9",
+    "modern-css-reset": "^1.0.4",
+    "webfontloader": "^1.6.28"
+  },
+  "author": "",
+  "license": "ISC"
+}
